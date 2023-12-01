@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hackastic
-- 👀 I’m interested in web development & creating android applications
+- 👀 I’m interested in web development & creating applications using python
 - 🌱 I’m currently learning react.js
-- 📫 How to reach me ...
+- 📫 How to reach me exuberantneglect27@gmail.com
 
 <!---
 Hackastic/Hackastic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
