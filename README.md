@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hackastic
 - 👀 I’m interested in web development & creating applications using python
-- 🌱 I’m currently learning react.js
+- 🌱 I’m fond of AI 
 - 📫 How to reach me exuberantneglect27@gmail.com
 
 <!---
