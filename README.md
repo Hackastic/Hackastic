@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=900&height=60&lines=ACCESS+GRANTED...;Welcome+to+Hackastic;Cloud+Security+Engineer;Ethical+Hacker;Penetration+Tester;Python+Developer;Building+Secure+Clouds+☁️" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=ACCESS+GRANTED...;Welcome+to+Hackastic;Cloud+Security+Enthusiast;Ethical+Hacker;Penetration+Tester;Python+Developer" />
+</p>
 
 </div>
 
