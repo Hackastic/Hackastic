@@ -489,3 +489,104 @@ until someone proves otherwise."
 
 ██████████████████████████████████████████████
 ```
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Hackastic/Hackastic/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/neer-bhanushali-765117256">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:neer.mb@somaiya.edu">
+<img src="https://img.shields.io/badge/Email-neer.mb@somaiya.edu-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://tryhackme.com/p/neer.bhanushali24">
+<img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme"/>
+</a>
+
+</div>
+
+---
+
+# 💼 Open to Opportunities
+
+```yaml
+Status:
+
+✔ Cybersecurity Internship
+
+✔ Cloud Security
+
+✔ Penetration Testing
+
+✔ Security Automation
+
+✔ Python Development
+
+Location:
+Mumbai, India
+
+Availability:
+Open to Remote & Hybrid Roles
+```
+
+---
+
+# 🚀 2026 Goals
+
+```text
+████████████████████████████████████
+
+🎯 Finish CSPM
+
+🎯 AWS Security Certification
+
+🎯 Publish Security Tools
+
+🎯 Contribute to Open Source
+
+🎯 Complete TryHackMe Learning Paths
+
+🎯 Land a Cybersecurity Internship
+
+████████████████████████████████████
+```
+
+---
+
+# 💀 Hack Responsibly
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│      root@hackastic:~$ logout                │
+│                                              │
+│      Session Closed Successfully             │
+│                                              │
+│      Remember:                               │
+│      Secure. Learn. Build. Repeat.           │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+### ⭐ If you like my work, consider starring my repositories ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:008000&height=120&section=footer"/>
+
+</div>
