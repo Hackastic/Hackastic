@@ -393,3 +393,99 @@ MISSION STATUS
 
 █████████████████████████████
 ```
+---
+
+# <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="35"/> root@hackastic:~$ git stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hackastic&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Hackastic&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# > cat languages.log
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hackastic&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# > cat contribution_graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hackastic&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# > achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hackastic&theme=matrix&row=1&column=6&no-frame=true"/>
+
+</div>
+
+---
+
+# root@hackastic:~$ cat github_status.log
+
+```text
+██████████████████████████████
+
+SYSTEM STATUS
+
+Github Profile : ONLINE
+
+Repositories   : Growing
+
+Open Source    : Active
+
+Learning Mode  : Enabled
+
+Security Focus : Cloud Security
+
+██████████████████████████████
+```
+
+---
+
+# > quote_of_the_day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</div>
+
+---
+
+# > visitor.log
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Hackastic&style=for-the-badge&color=brightgreen"/>
+
+</div>
+
+---
+
+# root@hackastic:~$ echo "Hack Responsibly"
+
+```text
+██████████████████████████████████████████████
+
+"Every system is secure...
+until someone proves otherwise."
+
+██████████████████████████████████████████████
+```
