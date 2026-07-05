@@ -178,3 +178,218 @@ MISSION      : NEVER STOP LEARNING
 
 ██████████████████████████████
 ```
+
+---
+
+# <img src="https://img.icons8.com/fluency/48/security-checked.png" width="35"/> root@hackastic:~$ ls arsenal
+
+<div align="center">
+
+| Offensive Security | Cloud & DevSecOps | Programming | Operating Systems |
+|:-----------------:|:-----------------:|:-----------:|:----------------:|
+| Burp Suite | AWS | Python | Kali Linux |
+| OWASP ZAP | Docker | JavaScript | Linux |
+| Metasploit | GitHub Actions | HTML5 | Windows |
+| Nmap | Git | CSS3 | Ubuntu |
+| SQLMap | GCP (Learning) | React | WSL |
+
+</div>
+
+---
+
+# > cat certifications.log
+
+```yaml
+[✔] Google Cloud Computing Foundations (NPTEL)
+
+[✔] Cybersecurity Essentials (IIT Ropar)
+
+[⏳] AWS Security
+
+[⏳] SOC Level 1
+
+[⏳] TryHackMe Learning Path
+```
+
+---
+
+# > tree ~/projects
+
+```text
+projects/
+
+├── ☁ Cloud Security Posture Management (In Progress)
+│
+│   ├── Misconfiguration Detection
+│   ├── Auto Remediation
+│   ├── Compliance Monitoring
+│   └── AWS Security
+│
+├── 🔐 Zero Trust Remote Access
+│
+│   ├── SSH Authentication
+│   ├── Identity Controls
+│   ├── Least Privilege
+│   └── Secure Access
+│
+├── 💉 Web Application Penetration Testing
+│
+│   ├── SQL Injection
+│   ├── XSS
+│   ├── CSRF
+│   ├── IDOR
+│   └── Command Injection
+│
+└── 🤖 FaceProbe
+
+    ├── Face Detection
+    ├── Online MCQ
+    └── Python
+```
+
+---
+
+# <img src="https://img.icons8.com/fluency/48/source-code.png" width="35"/> Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## ☁ Cloud Security Posture Management
+
+A security platform that continuously scans cloud infrastructure for
+misconfigurations and automatically remediates security risks.
+
+### Tech Stack
+
+- Python
+- AWS
+- Docker
+- Security Automation
+
+>Status: 🚧 In Development
+
+</td>
+
+<td width="50%">
+
+## 🔐 Zero Trust Remote Access
+
+Implemented a secure remote access solution using SSH,
+identity verification and least privilege principles.
+
+### Features
+
+- SSH Authentication
+- RBAC
+- Identity Based Access
+- Secure Communication
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 💉 Web Penetration Testing
+
+Performed security assessments on OWASP Juice Shop and DVWA.
+
+### Vulnerabilities
+
+- SQL Injection
+- XSS
+- CSRF
+- IDOR
+- Command Injection
+
+</td>
+
+<td>
+
+## 🤖 FaceProbe
+
+An AI-based online examination platform with
+real-time face detection for proctoring.
+
+### Features
+
+- Face Detection
+- Online Examination
+- Python Backend
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# root@hackastic:~$ cat currently_learning.txt
+
+```text
+███████████████████████████████
+
+CURRENT ROADMAP
+
+☁ AWS Security
+
+☁ Cloud Security
+
+🔐 Red Teaming
+
+🛡 Threat Hunting
+
+🐳 Docker Security
+
+⚙ Detection Engineering
+
+📖 MITRE ATT&CK
+
+███████████████████████████████
+```
+
+---
+
+# <img src="https://img.icons8.com/color/48/tryhackme.png" width="35"/> Platforms
+
+<p align="center">
+
+<a href="https://tryhackme.com/p/neer.bhanushali24">
+<img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme"/>
+</a>
+
+<a href="https://www.linkedin.com/in/neer-bhanushali-765117256">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:neer.mb@somaiya.edu">
+<img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+```text
+MISSION STATUS
+
+█████████████████████████████
+
+☑ Cloud Security
+
+☑ Python Automation
+
+☑ Penetration Testing
+
+☑ Zero Trust
+
+☑ Continuous Learning
+
+█████████████████████████████
+```
